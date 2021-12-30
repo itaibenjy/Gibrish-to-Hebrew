@@ -16,6 +16,6 @@ The end result will look like this:
 
 ![Hebrew subtitle](https://github.com/itaibenjy/Gibrish-to-Hebrew/blob/master/hebrew.png)
 
-I uploaded here the source file and and executable for anyone to use.
+I uploaded here the source file and and executable for anyone to use, when you run the executable make sure the image "closed-caption.ico" is in the same directory as the executable.
 
 
